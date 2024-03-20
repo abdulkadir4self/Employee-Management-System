@@ -1,0 +1,1 @@
+// how to make only one component and use it everywhere. clicked photos 
